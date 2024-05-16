@@ -92,8 +92,8 @@ if(response.error != null) {
   "status": "ok",
   "error": null,
   "data": {
-    "quote": "Sunshine is delicious, rain is refreshing, wind braces us up, snow is exhilarating; there is really no such thing as bad weather, only different kinds of good weather.",
-    "author": "John Ruskin"
+    "quote": "What matters is the value we've created in our lives, the people we've made happy and how much we've grown as people.",
+    "author": "Daisaku Ikeda"
   }
 }
 ```
