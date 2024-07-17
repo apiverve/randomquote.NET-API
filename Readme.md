@@ -92,8 +92,8 @@ if(response.error != null) {
   "status": "ok",
   "error": null,
   "data": {
-    "quote": "What matters is the value we've created in our lives, the people we've made happy and how much we've grown as people.",
-    "author": "Daisaku Ikeda"
+    "quote": "Take things as they are. Punch when you have to punch. Kick when you have to kick.",
+    "author": "Bruce Lee"
   }
 }
 ```
